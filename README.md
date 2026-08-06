@@ -4,7 +4,7 @@
 
 Human Energy Enablement (HEEn) is the organizational enablement framework within the **Human Energy Management System (HEMS)**, derived from the principles of **Human Energy Economics (HEE)**.
 
-HEEn focuses on creating the organizational conditions required to convert Human Energy into **Sustainable Execution Capacity**.
+Human Energy Enablement (HEEn) is an organizational capability framework that designs, strengthens, and continuously improves the systems, structures, resources, leadership practices, decision mechanisms, and environments required to convert Human Energy into Sustainable Execution Capacity and Sustainable Business Value.
 
 Organizations can possess highly capable, committed, and energized people; however, sustainable execution depends on whether organizational systems, structures, resources, decision mechanisms, leadership practices, and working environments enable people to effectively apply their potential.
 
@@ -108,30 +108,47 @@ Without organizational enablement, even highly capable and energized people cann
 
 ## Human Energy Economics Ecosystem
 
+Human Energy Economics (HEE) provides the foundational principles for managing Human Energy as a strategic organizational asset.
+
 ```text
-                                        Human Energy Economics (HEE)
-                               │
-                               ▼
-             Human Energy Management System (HEMS)
-                               │
- ┌────────────────┬────────────────┬────────────────┬────────────────┐
- │                │                │                │
- ▼                ▼                ▼                ▼
-HEA              HERF             HEDP             HEEn
+                                       Human Energy Economics (HEE)
+                                                     │
+                                                     ▼
+                         Human Energy Management System (HEMS)
+                                                     │
+                                                     ▼
 
-Human Energy     Human Energy     Human Energy     Human Energy
-Audit             Recovery         Development      Enablement
-                  Framework        Plan
 
-Measure           Recover          Develop          Enable
+ ┌──────────────────────┬──────────────────────┬──────────────────────┐
+ │                      │                      │                      │
+ ▼                      ▼                      ▼                      ▼
 
- └────────────────┴────────────────┴────────────────┴────────────────┘
-                               │
-                               ▼
-            Expanded Sustainable Execution Capacity
-                               │
-                               ▼
-                Sustainable Business Value
+
+HEA                    HERF                   HEDP                   HEEn
+
+Human Energy           Human Energy           Human Energy           Human Energy
+Audit                  Recovery Framework     Development Plan       Enablement
+
+Measure                Recover                Develop                Enable
+
+Human Energy           Human Energy           Human Energy           Human Energy
+Health                 Restoration            Capability             Organizational
+Assessment             & Leakage              Growth                 Conditions
+                       Reduction              & Learning             & Execution Enablement
+
+
+ │                      │                      │                      │
+ └──────────────────────┴──────────────────────┴──────────────────────┘
+
+                                                     │
+                                                     ▼
+
+                              Sustainable Execution Capacity
+
+                                                     │
+                                                     ▼
+
+                              Sustainable Business Value
 
 ```
 
@@ -193,7 +210,7 @@ HEA       HERF       HEDP       HEEn
 Measure   Recover    Develop    Enable
                 │
                 ▼
-Expanded Sustainable Execution Capacity
+Expand Sustainable Execution Capacity
                 │
                 ▼
 Sustainable Business Value
@@ -290,17 +307,36 @@ Unlike the **Human Energy Recovery Framework (HERF)**, which restores lost Human
 
 The relationship can be summarized as:
 
+## Relationship Between HEDP and HEEn
+
+While HEDP and HEEn are complementary frameworks within HEMS, they address different organizational challenges.
+
+HEDP focuses on **developing Human Energy capability**, while HEEn focuses on **enabling the application of Human Energy capability through organizational conditions**.
+
+| Dimension        | HEDP                                        | HEEn                                                      |
+|-----------------|---------------------------------------------|-----------------------------------------------------------|
+| Primary Question | How do we increase Human Energy capability? | How do we enable Human Energy application?                |
+| Focus            | People capability                           | Organizational capability                                 |
+| Level            | Individual + collective capability          | Organizational operating environment                      |
+| Main Constraint  | Capability gap                              | Enablement gap                                            |
+| Main Outcome     | Increased Human Energy potential            | Increased Human Energy conversion efficiency              |
+| Metaphor         | Strengthening the engine                    | Improving the road, fuel system, and operating conditions |
+
+---
+
+The relationship can be summarized as:
+
 ```text
 HERF
 Recover Human Energy
         │
         ▼
 HEDP
-Develop Human Energy
+Develop Human Energy Capability
         │
         ▼
 HEEn
-Enable Human Energy
+Enable Human Energy Application
         │
         ▼
 Expanded Sustainable Execution Capacity
@@ -387,42 +423,207 @@ HEMS integrates four complementary management frameworks:
 
 # Human Energy Management Flow
 
-The **Human Energy Management Flow** represents the continuous process through which organizations manage Human Energy as a strategic asset.
+The **Human Energy Management Flow** represents the continuous transformation sequence through which organizations manage **Human Energy as a strategic organizational asset**.
 
-The flow ensures that Human Energy is:
+The flow describes how Human Energy moves from foundational principles into measurable organizational outcomes through a structured transformation sequence within the **Human Energy Management System (HEMS)**.
 
-1. **Measured** to understand current conditions.
-2. **Recovered** by reducing energy loss and execution barriers.
-3. **Developed** through capability growth and organizational learning.
-4. **Enabled** through systems and environments that support execution.
-5. **Converted** into Sustainable Execution Capacity and Business Value.
+The transformation follows six action-oriented stages:
+
+**Measure → Recover → Develop → Enable → Expand → Create**
+
+Each stage represents a specific transformation activity that converts Human Energy from potential into sustainable organizational value.
+
+---
+
+## Human Energy Management Flow Logic
+
+### 1. Measure Human Energy
+
+**Objective:**  
+Understand the current state of Human Energy and organizational energy health.
+
+**Framework:**  
+**Human Energy Audit (HEA)**
+
+HEA identifies:
+
+- Current Human Energy condition
+- Organizational energy health
+- Human Energy strengths and constraints
+- Sources of Human Energy leakage
+- Execution capacity barriers
+
+**Transformation Outcome:**
+
+Measured understanding of the organization's Human Energy condition.
+
+---
+
+### 2. Recover Human Energy
+
+**Objective:**  
+Restore lost Human Energy by reducing unnecessary energy consumption, operational friction, and organizational noise.
+
+**Framework:**  
+**Human Energy Recovery Framework (HERF)**
+
+HERF addresses:
+
+- Operational noise
+- Process inefficiencies
+- Excessive complexity
+- Workplace friction
+- Human Energy leakage sources
+
+**Transformation Outcome:**
+
+Recovered Human Energy available for productive execution.
+
+---
+
+### 3. Develop Human Energy
+
+**Objective:**  
+Increase Human Energy capability through continuous individual and organizational development.
+
+**Framework:**  
+**Human Energy Development Plan (HEDP)**
+
+HEDP strengthens:
+
+- Human capability
+- Cognitive capacity
+- Emotional capacity
+- Physical capacity
+- Leadership capability
+- Decision capability
+- Learning capability
+- Innovation capability
+- Execution capability
+- Organizational resilience
+
+**Transformation Outcome:**
+
+Enhanced Human Energy capability and increased future execution potential.
+
+---
+
+### 4. Enable Human Energy
+
+**Objective:**  
+Create organizational conditions that allow Human Energy to be effectively applied.
+
+**Framework:**  
+**Human Energy Enablement (HEEn)**
+
+HEEn strengthens:
+
+- Organizational systems
+- Structures and processes
+- Resource availability
+- Decision mechanisms
+- Leadership support
+- Working environment
+- Execution conditions
+
+**Transformation Outcome:**
+
+Enabled Human Energy converted into effective organizational execution.
+
+---
+
+### 5. Expand Sustainable Execution Capacity
+
+**Objective:**  
+Transform enabled Human Energy into stronger, repeatable, and scalable execution capability.
+
+Expanded Sustainable Execution Capacity is achieved through:
+
+- Improved execution effectiveness
+- Faster decision cycles
+- Better resource utilization
+- Stronger collaboration
+- Higher organizational adaptability
+- Continuous improvement capability
+
+**Transformation Outcome:**
+
+An organization capable of consistently converting Human Energy into results.
+
+---
+
+### 6. Create Sustainable Business Value
+
+**Objective:**  
+Generate long-term organizational value through sustained execution capability.
+
+Sustainable Business Value is created through:
+
+- Improved business performance
+- Innovation and adaptability
+- Organizational resilience
+- Continuous improvement
+- Long-term competitive advantage
+
+**Transformation Outcome:**
+
+Human Energy transformed into sustainable organizational value.
+
+---
+
+## Transformation Logic
 
 ```text
-Human Energy Economics (HEE)
-            │
-            ▼
-Measure Human Energy
-(Human Energy Audit - HEA)
-            │
-            ▼
-Recover Human Energy
-(Human Energy Recovery Framework - HERF)
-            │
-            ▼
-Develop Human Energy
-(Human Energy Development Plan - HEDP)
-            │
-            ▼
-Enable Human Energy
-(Human Energy Enablement - HEEn)
-            │
-            ▼
-Expanded Sustainable Execution Capacity
-            │
-            ▼
-Sustainable Business Value
+                    Human Energy Economics (HEE)
+                               │
+                               │
+                               ▼
+        Principles for Managing Human Energy
+        as a Strategic Organizational Asset
+                               │
+                               ▼
+             Human Energy Management System (HEMS)
+                               │
+                               ▼
+                         Measure Human Energy
+                    (Human Energy Audit - HEA)
+                               │
+                               ▼
+                         Recover Human Energy
+              (Human Energy Recovery Framework - HERF)
+                               │
+                               ▼
+                         Develop Human Energy
+        (Individual & Organizational Capability - HEDP)
+                               │
+                               ▼
+                         Enable Human Energy
+              (Human Energy Enablement - HEEn)
+                               │
+                               ▼
+                 Expand Sustainable Execution Capacity
+                               │
+                               ▼
+                    Create Sustainable Business Value
 
 ```
+**Transformation Principle:**
+
+Human Energy Economics (HEE) establishes the foundational principles for managing Human Energy as a strategic organizational asset.
+
+These principles are operationalized through the **Human Energy Management System (HEMS)**, which provides the integrated management structure for:
+
+- Measuring Human Energy through **HEA**
+- Recovering Human Energy through **HERF**
+- Developing Human Energy capability through **HEDP**
+- Enabling Human Energy through **HEEn**
+- Expanding Sustainable Execution Capacity
+- Creating Sustainable Business Value
+
+The Human Energy Management Flow represents the complete transformation journey:
+
+**Human Energy Principles → Human Energy Management System → Human Energy Measurement → Human Energy Recovery → Human Energy Development → Human Energy Enablement → Sustainable Execution Capacity → Sustainable Business Value**
+
 
 ---
 
@@ -596,4 +797,4 @@ The Human Energy Economics ecosystem continues to develop through research, prac
 
 > **Human Energy Economics (HEE)**  
 >
-> *Measure Human Energy • Protect Human Energy • Recover Human Energy • Develop Human Energy • Enable Human Energy • Expand Sustainable Execution Capacity • Create Sustainable Business Value*
+> **Measure Human Energy → Protect Human Energy → Recover Human Energy → Develop Human Energy (Individual & Organizational Capability) → Enable Human Energy → Expand Sustainable Execution Capacity → Create Sustainable Business Value**
