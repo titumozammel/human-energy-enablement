@@ -114,13 +114,18 @@ Without organizational enablement, even highly capable and energized people cann
                                ▼
              Human Energy Management System (HEMS)
                                │
-       ┌─────────────┬─────────────┬─────────────┐
-       │             │             │             │
-       ▼             ▼             ▼             ▼
-      HEA          HERF          HEDP          HEEn
-   Measure       Recover       Develop       Enable
-       │             │             │             │
-       └─────────────┴─────────────┴─────────────┘
+       ┌────────────────┬────────────────┬────────────────┐
+       │                │                │                │
+       ▼                ▼                ▼                ▼
+      HEA              HERF             HEDP             HEEn
+
+ Human Energy      Human Energy     Human Energy     Human Energy
+ Audit             Recovery         Development      Enablement
+                   Framework        Plan
+
+   Measure          Recover          Develop          Enable
+
+       └────────────────┴────────────────┴────────────────┘
                                │
                                ▼
             Expanded Sustainable Execution Capacity
