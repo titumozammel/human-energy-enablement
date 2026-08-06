@@ -21,7 +21,7 @@ Within HEMS:
 
 Together, these frameworks create an integrated Human Energy Management System:
 
-**Measure → Recover → Develop → Enable → Expand Sustainable Execution Capacity → Create Sustainable Business Value**
+**Measure → Recover → Develop Human Energy (Individual & Organizational Capability) → Enable → Expand Sustainable Execution Capacity → Create Sustainable Business Value**
 
 While HERF restores today's Human Energy and HEDP develops future Human Energy capability, HEEn ensures that recovered and developed Human Energy can be effectively applied to organizational execution.
 
