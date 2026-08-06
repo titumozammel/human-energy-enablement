@@ -114,7 +114,7 @@ Without organizational enablement, even highly capable and energized people cann
                                ▼
              Human Energy Management System (HEMS)
                                │
-       ┌─────────────┬─────────────┬─────────────┬─────────────┐
+       ┌─────────────┬─────────────┬─────────────┐
        │             │             │             │
        ▼             ▼             ▼             ▼
       HEA          HERF          HEDP          HEEn
@@ -181,7 +181,7 @@ Human Energy Economics (HEE)
                 ▼
 Human Energy Management System (HEMS)
                 │
- ┌──────────┬──────────┬──────────┬──────────┐
+ ┌──────────┬──────────┬──────────┐
  │          │          │          │
  ▼          ▼          ▼          ▼
 HEA       HERF       HEDP       HEEn
@@ -362,7 +362,7 @@ HEMS integrates four complementary management frameworks:
                                ▼
              Human Energy Management System (HEMS)
                                │
-       ┌─────────────┬─────────────┬─────────────┬─────────────┐
+       ┌─────────────┬─────────────┬─────────────┐
        │             │             │             │
        ▼             ▼             ▼             ▼
       HEA          HERF          HEDP          HEEn
