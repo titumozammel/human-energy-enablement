@@ -14,10 +14,10 @@ Within HEMS:
 
 | Framework | Purpose |
 |---|---|
-| **HEA** | Measure Human Energy and organizational energy health |
-| **HERF** | Recover Human Energy by reducing energy leakage and operational noise |
-| **HEDP** | Develop Human Energy through capability growth and continuous learning |
-| **HEEn** | Enable Human Energy through organizational systems and execution conditions |
+| **HEA (Human Energy Audit)** | Measure Human Energy and organizational energy health |
+| **HERF (Human Energy Recovery Framework)** | Recover Human Energy by reducing energy leakage and operational noise |
+| **HEDP (Human Energy Development Plan)** | Develop Human Energy through capability growth and continuous learning |
+| **HEEn (Human Energy Enablement)** | Enable Human Energy through organizational systems and execution conditions |
 
 Together, these frameworks create an integrated Human Energy Management System:
 
