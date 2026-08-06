@@ -522,10 +522,6 @@ The framework is built on the principle that sustainable organizational performa
 
 The Human Energy Economics ecosystem continues to develop through research, practical application, organizational learning, and collaboration with professionals interested in sustainable execution and organizational improvement.
 
----
-
 > **Human Energy Economics (HEE)**  
 >
 > *Measure Human Energy • Protect Human Energy • Recover Human Energy • Develop Human Energy • Enable Human Energy • Expand Sustainable Execution Capacity • Create Sustainable Business Value*
-
----
