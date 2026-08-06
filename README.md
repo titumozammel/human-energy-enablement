@@ -561,7 +561,7 @@ Sustainable Execution Capacity
           ▼
 Sustainable Business Value
 
-
+```
 
 # Citation
 
