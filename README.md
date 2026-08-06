@@ -21,7 +21,7 @@ Within HEMS:
 
 Together, these frameworks create an integrated Human Energy Management System:
 
-**Measure → Recover → Develop Human Energy (Individual & Organizational Capability) → Enable → Expand Sustainable Execution Capacity → Create Sustainable Business Value**
+**Measure Human Energy → Recover Human Energy → Develop Human Energy (Individual & Organizational Capability) → Enable Human Energy → Expand Sustainable Execution Capacity → Create Sustainable Business Value**
 
 While HERF restores today's Human Energy and HEDP develops future Human Energy capability, HEEn ensures that recovered and developed Human Energy can be effectively applied to organizational execution.
 
@@ -109,23 +109,23 @@ Without organizational enablement, even highly capable and energized people cann
 ## Human Energy Economics Ecosystem
 
 ```text
-                    Human Energy Economics (HEE)
+                                        Human Energy Economics (HEE)
                                │
                                ▼
              Human Energy Management System (HEMS)
                                │
-       ┌────────────────┬────────────────┬────────────────┐
-       │                │                │                │
-       ▼                ▼                ▼                ▼
-      HEA              HERF             HEDP             HEEn
+ ┌────────────────┬────────────────┬────────────────┬────────────────┐
+ │                │                │                │
+ ▼                ▼                ▼                ▼
+HEA              HERF             HEDP             HEEn
 
- Human Energy      Human Energy     Human Energy     Human Energy
- Audit             Recovery         Development      Enablement
-                   Framework        Plan
+Human Energy     Human Energy     Human Energy     Human Energy
+Audit             Recovery         Development      Enablement
+                  Framework        Plan
 
-   Measure          Recover          Develop          Enable
+Measure           Recover          Develop          Enable
 
-       └────────────────┴────────────────┴────────────────┘
+ └────────────────┴────────────────┴────────────────┴────────────────┘
                                │
                                ▼
             Expanded Sustainable Execution Capacity
