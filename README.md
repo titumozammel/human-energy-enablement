@@ -60,7 +60,7 @@ HEEn addresses the organizational conditions between **capability** and **applic
 
 ### Capability = Potential
 
-### Capacity = Potential made available for application
+### Capacity = Ability to mobilize and apply potential
 
 Knowledge alone is potential.
 
@@ -73,6 +73,8 @@ The basic sequence is:
 > **Capability → Enablement → Application → Execution**
 
 HEEn operates primarily at the **enablement** point in this sequence.
+
+Capacity is therefore not simply the existence of potential. It concerns the ability to mobilize and apply potential in pursuit of intended work and outcomes.
 
 ---
 
@@ -121,6 +123,10 @@ HEEn asks:
 - Does improved application strengthen execution?
 - Does execution strengthen Sustainable Execution Capacity?
 
+The governing question is:
+
+> **Are the organizational conditions enabling available Human Energy and capability to become effective application?**
+
 ---
 
 # 7. DIAGNOSTIC QUESTIONS
@@ -137,6 +143,8 @@ When application is constrained:
 8. Did the change improve effective application?
 9. Did improved application improve execution?
 10. Did execution strengthen sustainable capacity?
+
+The diagnostic objective is to distinguish a **missing capability** from a **constrained capability**.
 
 ---
 
@@ -157,9 +165,11 @@ HEEn changes the diagnostic question where appropriate.
 
 The transformation is from a purely person-centered explanation toward a **capability-and-condition diagnosis** where appropriate.
 
+HEEn does not eliminate individual accountability. It expands diagnosis to include the organizational conditions surrounding application.
+
 ---
 
-# 9. WHAT PROBLEM HEEn SEES AND SOLVES
+# 9. WHAT PROBLEM HEEn SEES AND ADDRESSES
 
 HEEn sees the gap between **available capability** and **effective application**.
 
@@ -194,15 +204,21 @@ Sometimes the organization does not allow, support, structure, or enable people 
 
 # 10. HEEn ENABLEMENT MODEL
 
-The core model is:
+The HEEn model is:
 
 > **Available Human Energy + Capability → Organizational Conditions → Enablement → Effective Application → Execution → Sustained Execution → Sustainable Execution Capacity → Sustainable Business Value**
 
 HEEn operates between **capability** and **effective application**.
 
+The broader HEE architecture recognizes that effective execution also depends on other conditions, including **Connection** and **Decision Quality**.
+
+Therefore, HEEn does not claim ownership of every condition in the broader HEE execution model.
+
 ---
 
 # 11. SIX ENABLEMENT PILLARS
+
+HEEn identifies six broad organizational enablement pillars.
 
 ## 1. Resource Enablement
 
@@ -218,6 +234,8 @@ Examples include:
 - access
 - people
 - physical resources
+
+The question is not whether more resources are desirable, but whether the resources required for appropriate application are available and accessible.
 
 ---
 
@@ -236,6 +254,8 @@ Examples include:
 - dependencies
 - interfaces
 
+Structural Enablement concerns whether organizational design supports the application expected from available capability.
+
 ---
 
 ## 3. Cultural Enablement
@@ -251,6 +271,8 @@ Examples include:
 - openness
 - learning orientation
 - willingness to surface problems
+
+Cultural Enablement does not mean removing standards or accountability.
 
 ---
 
@@ -271,6 +293,8 @@ Decision Enablement supports decision conditions.
 
 It does not replace the broader HEE concept of **Decision Quality**.
 
+> **Decision Enablement enables the conditions for decision-making. Decision Quality concerns the quality of the decision itself.**
+
 ---
 
 ## 5. Support Enablement
@@ -286,6 +310,8 @@ Examples include:
 - feedback
 - problem resolution
 - cross-functional assistance
+
+Support should remove material barriers to appropriate application without creating unnecessary dependency.
 
 ---
 
@@ -303,6 +329,8 @@ Examples include:
 - safety
 - interfaces
 
+Environmental Enablement concerns whether the surrounding operating environment allows available capability to be used effectively.
+
 ---
 
 # 12. ENABLEMENT GAP
@@ -313,7 +341,7 @@ An **Enablement Gap** exists when:
 
 The basic diagnostic is:
 
-> **Capability Available + Application Expected + Organizational Restriction = Enablement Gap**
+> **Capability Available + Application Expected + Material Organizational Restriction = Enablement Gap**
 
 This distinguishes:
 
@@ -322,6 +350,10 @@ This distinguishes:
 from:
 
 **Enablement Gap → Enable**
+
+Both conditions may exist simultaneously.
+
+Where capability is genuinely missing, enablement alone cannot solve the problem.
 
 ---
 
@@ -347,6 +379,8 @@ The HEEn diagnostic sequence is:
 > ↓  
 > **LEARN AND ADAPT**
 
+The sequence is diagnostic and adaptive rather than a rigid prescription that every case must follow identically.
+
 ---
 
 # 14. HEEn ≠ CAPABILITY DEVELOPMENT
@@ -364,6 +398,8 @@ A capability problem requires development.
 An enablement problem requires organizational conditions to change.
 
 Both may exist simultaneously.
+
+The management error is to assume that every application problem is a capability problem.
 
 ---
 
@@ -395,7 +431,7 @@ HEEn should not be confused with the removal or reduction of unnecessary operati
 
 > **REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
 
-HEEn addresses a different question.
+HEEn addresses a different question:
 
 > **For the work that remains, are people enabled to apply their Human Energy and capability effectively?**
 
@@ -413,7 +449,7 @@ Likewise, OSF and 5R should not be treated as substitutes for organizational ena
 
 # 17. HEEn AND 3C STRATEGIC APPROACH
 
-The **3C Strategic Approach** addresses three strategic conditions:
+The **3C Strategic Approach** addresses three strategic contexts:
 
 ### Source
 → **Continuous Improvement**
@@ -511,6 +547,8 @@ Decision Enablement may include:
 
 But the quality of the decision remains a broader management concern.
 
+A well-enabled decision process can still produce a poor decision.
+
 ---
 
 # 21. HEEn AND CAPABILITY CONNECTION
@@ -528,19 +566,29 @@ HEEn focuses on enabling application.
 
 Capability Connection focuses on whether distributed capability can effectively work together.
 
+The distinction is:
+
+> **Connection makes distributed capability more able to work together. Enablement makes available capability more usable in the conditions of work.**
+
+The two can overlap but are not identical.
+
 ---
 
 # 22. HEEn AND HEE
 
 **HEE asks:**
 
-> How can organizations preserve and expand the capacity required to produce output repeatedly?
+> **How can organizations preserve and expand the capacity required to produce output repeatedly?**
 
 **HEEn asks:**
 
-> Are organizational conditions enabling available Human Energy and capability to become effective application?
+> **Are organizational conditions enabling available Human Energy and capability to become effective application?**
 
 HEEn is therefore an organizational enablement framework derived from the broader economic logic of HEE.
+
+HEEn contributes to HEE by addressing a critical conversion condition:
+
+> **Potential → Application**
 
 ---
 
@@ -558,7 +606,7 @@ HEEn operates primarily from an **inside-out** perspective.
 
 The two perspectives interact.
 
-Positive employee conditions can support better customer outcomes.
+Positive employee operating conditions can support better customer outcomes.
 
 Negative customer experience may provide a diagnostic signal about internal system conditions.
 
@@ -567,6 +615,8 @@ However:
 > **Negative CX does not automatically prove that the cause is an internal enablement problem.**
 
 It is a signal requiring diagnosis.
+
+HEEn therefore treats EX/CX as connected outcomes and diagnostic signals rather than assuming a simple one-directional causal relationship.
 
 ---
 
@@ -585,6 +635,10 @@ The broader alignment can be understood as:
 Therefore:
 
 > **SLAs protect operations. XLA protects experience. HEE protects capacity. HEEn strengthens the conditions that make capability usable.**
+
+HEEn does not replace SLA, XLA, or HEE.
+
+It contributes to the organizational conditions underlying sustainable performance.
 
 ---
 
@@ -613,6 +667,16 @@ More capability does not necessarily produce more application.
 
 The organizational conditions surrounding capability must also remain fit for purpose.
 
+This creates an important growth distinction:
+
+> **Capability growth ≠ Application growth**
+
+and:
+
+> **More resources ≠ More usable capacity**
+
+Organizational growth therefore requires attention not only to what the organization possesses, but to whether its architecture continues to allow that potential to be mobilized and applied effectively.
+
 ---
 
 # 26. HEEn VALUE CREATION CYCLE
@@ -637,6 +701,8 @@ The HEEn value creation cycle is:
 
 Enablement creates value only when it improves effective application and contributes to execution.
 
+Improved enablement alone is not equivalent to value creation.
+
 ---
 
 # 27. CONVERSION
@@ -656,6 +722,10 @@ Enablement makes appropriate use possible.
 Application turns potential into action.
 
 Execution turns action into results.
+
+Therefore:
+
+> **Capability without application remains unrealized potential.**
 
 ---
 
@@ -689,6 +759,10 @@ It then diagnoses the organizational condition restricting application and chang
 
 The resulting application is tested through execution and learning.
 
+The logic can therefore be expressed as:
+
+> **Expected Application → Capability → Condition → Enablement → Application → Execution → Learning → Adaptation**
+
 ---
 
 # 30. PRIORITIZATION
@@ -708,6 +782,8 @@ The largest gap is not automatically the highest priority.
 
 > **Fix the constraint that most prevents the system from moving forward.**
 
+This is a management heuristic, not a validated universal law.
+
 ---
 
 # 31. LEADERSHIP TEST
@@ -720,36 +796,49 @@ Leaders can ask:
 4. Did the change improve effective application?
 5. Did improved application strengthen execution?
 
-This keeps the diagnosis focused on conditions rather than automatically attributing execution problems to individual effort or capability.
+A concise leadership test is:
+
+> **What capability exists? What is preventing its application? What condition must change next?**
+
+This keeps diagnosis focused on conditions without removing individual responsibility where individual responsibility is genuinely relevant.
 
 ---
 
 # 32. HEEn MATURITY
 
-HEEn maturity can be viewed as:
+HEEn maturity can be viewed conceptually as:
 
 > **Constrained → Aware → Responsive → Enabled → Integrated → Adaptive → Sustainable**
 
 ### Constrained
+
 Capability frequently cannot be effectively applied.
 
 ### Aware
+
 Enablement constraints are recognized.
 
 ### Responsive
+
 The organization responds to identified restrictions.
 
 ### Enabled
+
 Important organizational conditions support effective application.
 
 ### Integrated
+
 Enablement becomes integrated across organizational interfaces.
 
 ### Adaptive
+
 Enablement conditions evolve with changing work and requirements.
 
 ### Sustainable
+
 The organization consistently maintains conditions that support effective application and sustainable execution.
+
+This is a conceptual maturity model, not a validated measurement scale.
 
 ---
 
@@ -758,6 +847,18 @@ The organization consistently maintains conditions that support effective applic
 The central HEEn logic is:
 
 > **Human Energy + Capability → Organizational Enablement → Effective Application → Execution → Sustained Execution → Sustainable Execution Capacity → Sustainable Business Value**
+
+This is the **HEEn-specific conversion logic**.
+
+The broader HEE model recognizes additional execution conditions, including **Connection** and **Decision Quality**.
+
+Accordingly, HEEn should not be interpreted as replacing the broader HEE execution architecture.
+
+A broader HEE representation is:
+
+> **Human Energy × Capability × Connection × Decision Quality × Enablement → Effective Application → Execution → Sustained Execution Capacity → Sustainable Business Value**
+
+The multiplicative expression represents interdependence rather than a validated quantitative production equation.
 
 ---
 
@@ -771,6 +872,8 @@ The economic objective is therefore not simply to increase capability.
 
 It is to improve the conversion of existing and developed capability into sustainable execution.
 
+HEEn therefore shifts attention from capability possession alone toward the economic significance of **capability application**.
+
 ---
 
 # 35. MANAGEMENT PROPOSITION
@@ -781,40 +884,33 @@ This creates a dual management responsibility:
 
 > **Develop what is missing. Enable what already exists.**
 
+Where both capability and enablement gaps exist:
+
+> **Develop the missing capability and enable the existing capability.**
+
 ---
 
 # 36. DIFFERENTIATION
 
 HEEn is related to, but distinct from:
 
-### Productivity
-Focuses on output relative to inputs.
+| Approach | Primary Focus |
+|---|---|
+| **Productivity** | Output relative to inputs |
+| **Human Capital** | Value and development of people and capabilities |
+| **Learning & Development** | Knowledge and capability development |
+| **Wellbeing** | Employee health, welfare, and experience |
+| **Capacity Planning** | Capacity requirements and availability |
+| **Process Improvement** | Processes and workflows |
+| **Change Management** | Adoption and transition |
+| **Execution Management** | Execution and outcomes |
+| **HEEn** | Organizational conditions that enable available Human Energy and capability to become effective application |
 
-### Human Capital
-Focuses on the value and development of people and their capabilities.
+The core differentiator is:
 
-### Learning & Development
-Focuses primarily on developing knowledge and capability.
+> **HEEn focuses on the condition between capability and application.**
 
-### Wellbeing
-Focuses on employee health, welfare, and experience.
-
-### Capacity Planning
-Focuses on capacity requirements and availability.
-
-### Process Improvement
-Focuses on improving processes and workflows.
-
-### Change Management
-Focuses on adoption and transition.
-
-### Execution Management
-Focuses on managing execution and outcomes.
-
-### HEEn
-Focuses on:
-
-> **The organizational conditions that enable available Human Energy and capability to become effective application.**
+It does not attempt to replace the disciplines above.
 
 ---
 
@@ -835,6 +931,8 @@ HEEn does not mean:
 The objective is:
 
 > **Fit between organizational conditions and required application.**
+
+A condition should be changed when it materially restricts appropriate application, not simply because more freedom or fewer controls appear desirable.
 
 ---
 
@@ -863,6 +961,8 @@ Therefore:
 
 Enablement is about appropriate organizational conditions for effective and sustainable application.
 
+The objective is not to maximize the enabling condition independently, but to achieve sufficient and appropriate enablement for the work that matters.
+
 ---
 
 # 39. HOW VALUE IS CREATED
@@ -872,6 +972,10 @@ The HEEn value logic is:
 > **Potential → Condition → Application → Execution → Sustainability → Value**
 
 Enablement creates economic relevance when it improves the organization's ability to convert capability into sustainable execution.
+
+Therefore:
+
+> **Enablement is a means of conversion, not the final economic outcome.**
 
 ---
 
@@ -891,13 +995,19 @@ Such performance does not necessarily increase sustainable capacity.
 
 The longer-term objective is to improve the organizational conditions that support **repeated effective application**.
 
+Therefore:
+
+> **Short-term performance ≠ Sustainable Execution Capacity**
+
+HEEn seeks conditions that allow appropriate capability to be applied repeatedly without relying indefinitely on exceptional effort.
+
 ---
 
 # 41. HEEn AND SUSTAINABLE EXECUTION CAPACITY
 
 The broader HEE relationship can be represented as:
 
-> **Human Energy × Capability × Connection × Organizational Enablement**  
+> **Human Energy × Capability × Connection × Decision Quality × Enablement**  
 > ↓  
 > **Effective Application**  
 > ↓  
@@ -907,9 +1017,13 @@ The broader HEE relationship can be represented as:
 > ↓  
 > **Sustainable Business Value**
 
+HEEn contributes primarily through **Enablement**.
+
 The relationship is multiplicative in spirit.
 
 If a critical condition approaches zero, the conversion of potential into sustainable execution can become severely constrained.
+
+This representation is conceptual rather than a validated quantitative equation.
 
 ---
 
@@ -917,19 +1031,19 @@ If a critical condition approaches zero, the conversion of potential into sustai
 
 HEEn should be positioned within the HEE architecture without implying that OSF, 3C Strategic Approach, and 5R Cascade form a single mandatory sequence.
 
-### HEE
+## HEE
 **Economic Lens**
 
 Provides the economic logic for preserving and expanding organizational capacity required for repeated output.
 
-### OEOS / OOS
+## OEOS / OOS
 **Management / Operating Architecture**
 
 Provides the broader management architecture for reducing fragmentation, improving connections, enabling capability, and sustaining execution.
 
-Within that architecture, distinct mechanisms address distinct questions:
+Within that architecture, distinct mechanisms address distinct questions.
 
-### OSF — Operational Silence Framework
+## OSF — Operational Silence Framework
 **Operational Demand / Noise**
 
 Identifies unnecessary recurring operational demand and operational noise.
@@ -938,7 +1052,7 @@ Identifies unnecessary recurring operational demand and operational noise.
 
 > **What operational demand should become silent?**
 
-### 3C Strategic Approach
+## 3C Strategic Approach
 **Source / Dependency / Constraint**
 
 Addresses:
@@ -951,7 +1065,7 @@ Addresses:
 
 > **What is the Source, Dependency, or Constraint, and how should it be continuously addressed?**
 
-### 5R Cascade
+## 5R Cascade
 **Recurring Demand Disposition**
 
 Determines whether recurring operational demand should be:
@@ -962,27 +1076,27 @@ Determines whether recurring operational demand should be:
 
 > **What should happen to this recurring demand?**
 
-### HEMS
+## HEMS
 **Human Energy Management**
 
 Manages the Human Energy dimension within the HEE operating logic.
 
-### HEA
+## HEA
 **Human Energy Audit**
 
 Measures and diagnoses Human Energy conditions.
 
-### HERF
+## HERF
 **Human Energy Recovery Framework**
 
 Recovers depleted Human Energy.
 
-### HEDP
+## HEDP
 **Human Energy Development Plan**
 
 Develops Human Energy and capability.
 
-### HEEn
+## HEEn
 **Human Energy Enablement**
 
 Enables available Human Energy and capability to be effectively applied to the work that remains.
@@ -991,7 +1105,7 @@ Enables available Human Energy and capability to be effectively applied to the w
 
 > **Are people enabled to apply their capability effectively?**
 
-### EES
+## EES
 **Execution Excellence System**
 
 Manages execution, monitoring, control, adaptation, and growth.
@@ -1040,6 +1154,14 @@ Potential research areas include:
 
 HEEn should therefore be treated as a developing conceptual contribution whose empirical validity remains an area for future research.
 
+The following distinctions should remain explicit:
+
+> **Conceptual proposition ≠ validated causal relationship**
+
+> **Construct ≠ established universal measure**
+
+> **Observed association ≠ causal proof**
+
 ---
 
 # 44. QUICK REFERENCE CARD
@@ -1049,6 +1171,9 @@ Human Energy Enablement
 
 **Abbreviation:**  
 HEEn
+
+**Position:**  
+Organizational enablement framework within HEE
 
 **Purpose:**  
 Enable available Human Energy and capability to become effective application.
@@ -1061,10 +1186,10 @@ Capability ≠ Application
 
 **Foundational Distinction:**  
 Capability = Potential  
-Capacity = Potential made available for application
+Capacity = Ability to mobilize and apply potential
 
 **Enablement Gap:**  
-Capability exists + application is expected + organizational conditions restrict application.
+Capability exists + application is expected + organizational conditions materially restrict application.
 
 **Six Enablement Pillars:**  
 Resource · Structural · Cultural · Decision · Support · Environmental
@@ -1072,16 +1197,40 @@ Resource · Structural · Cultural · Decision · Support · Environmental
 **Diagnostic Logic:**  
 Identify → Confirm → Diagnose → Enable → Apply → Execute → Learn → Adapt
 
+**Conversion:**  
+Potential → Usable Application
+
 **Value Path:**  
 Capability → Enablement → Application → Execution → Sustainable Execution Capacity → Sustainable Business Value
 
+**HEEn Role:**  
+Enable application
+
+**EES Role:**  
+Manage execution
+
+**HEDP Role:**  
+Develop capability
+
+**HERF Role:**  
+Recover depleted Human Energy
+
+**OSF Role:**  
+Reduce unnecessary recurring operational demand
+
+**5R Role:**  
+Determine recurring-demand disposition
+
+**3C Role:**  
+Direct strategic attention toward Source, Dependency, or Constraint
+
 **Core Question:**  
-Are people enabled to apply their capability effectively?
+> **Are people enabled to apply their capability effectively?**
 
 **Leadership Test:**  
-What capability exists?  
-What is preventing its application?  
-What organizational condition must change next?
+> **What capability exists?**  
+> **What is preventing its application?**  
+> **What organizational condition must change next?**
 
 **Core Principle:**  
 > **Develop what is missing. Enable what already exists.**
@@ -1132,7 +1281,8 @@ Manages execution, monitoring, adaptation, and growth.
 
 # 47. REFERENCE
 
-**Human Energy Economics (HEE)**  
+**Human Energy Economics (HEE)**
+
 The broader economic theory and conceptual foundation within which Human Energy Enablement operates.
 
 HEEn is an organizational enablement framework derived from the HEE perspective on organizational capacity and sustainable execution.
@@ -1146,6 +1296,8 @@ This framework is an original conceptual work of **Md. Mozammel Hoque**.
 It may be referenced, discussed, and academically examined with appropriate attribution.
 
 Commercial reproduction, adaptation, or representation as another person's original framework requires permission from the creator.
+
+The repository publication and licensing terms should be read together with the repository's applicable **LICENSE** file.
 
 ---
 
