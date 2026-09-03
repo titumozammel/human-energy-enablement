@@ -21,7 +21,7 @@ HEEn addresses a specific organizational problem:
 
 > **Capability may exist without the organizational conditions required for that capability to be effectively applied.**
 
-HEEn therefore focuses not only on whether people have capability, but whether the organization enables that capability to become usable in the work that matters.
+HEEn therefore focuses not only on whether people possess capability, but whether the organization enables that capability to become usable in the work that matters.
 
 ---
 
@@ -54,6 +54,8 @@ Therefore:
 
 HEEn addresses the organizational conditions between **capability** and **application**.
 
+Its central concern is not simply whether capability exists, but whether available capability can become **effective application under actual organizational conditions**.
+
 ---
 
 # 4. FOUNDATIONAL DISTINCTION
@@ -68,11 +70,11 @@ Applied knowledge becomes usable capability.
 
 Capability becomes economically meaningful when organizational conditions allow it to be effectively applied.
 
-The basic sequence is:
+The basic conversion is:
 
 > **Capability → Enablement → Application → Execution**
 
-HEEn operates primarily at the **enablement** point in this sequence.
+HEEn operates primarily at the **enablement** point in this conversion.
 
 Capacity is therefore not simply the existence of potential. It concerns the ability to mobilize and apply potential in pursuit of intended work and outcomes.
 
@@ -204,11 +206,11 @@ Sometimes the organization does not allow, support, structure, or enable people 
 
 # 10. HEEn ENABLEMENT MODEL
 
-The HEEn model is:
+The HEEn conversion model is:
 
 > **Available Human Energy + Capability → Organizational Conditions → Enablement → Effective Application → Execution → Sustained Execution → Sustainable Execution Capacity → Sustainable Business Value**
 
-HEEn operates between **capability** and **effective application**.
+HEEn operates primarily between **capability** and **effective application**.
 
 The broader HEE architecture recognizes that effective execution also depends on other conditions, including **Connection** and **Decision Quality**.
 
@@ -427,7 +429,7 @@ HEEn should not be confused with the removal or reduction of unnecessary operati
 
 **OSF — Operational Silence Framework** addresses unnecessary recurring operational demand and operational noise.
 
-**5R Cascade** provides the decision cascade for recurring demand:
+**5R Cascade** provides the decision method for recurring demand:
 
 > **REMOVE → REDUCE → REPLACE → RE-ENGINEER → RETAIN**
 
@@ -437,9 +439,9 @@ HEEn addresses a different question:
 
 Therefore:
 
-> **OSF asks what operational demand should become silent.**  
-> **5R determines what should happen to recurring demand.**  
-> **HEEn enables the work that remains to be effectively applied and executed.**
+> **OSF reduces unnecessary operational demand.**  
+> **5R determines the disposition of recurring demand.**  
+> **HEEn enables the work that remains to be effectively applied.**
 
 HEEn should not be used to justify retaining unnecessary work.
 
@@ -447,26 +449,33 @@ Likewise, OSF and 5R should not be treated as substitutes for organizational ena
 
 ---
 
-# 17. HEEn AND 3C STRATEGIC APPROACH
+# 17. HEEn AND THE 3C STRATEGIC APPROACH
 
-The **3C Strategic Approach** addresses three strategic contexts:
+The **3C Strategic Approach** identifies three strategic contexts:
 
-### Source
-→ **Continuous Improvement**
+### SOURCE
 
-### Dependency
-→ **Continuous Empowerment**
+> **Why does this keep arising?**
 
-### Constraint
-→ **Continuous Constraint Reduction**
+### DEPENDENCY
 
-HEEn complements this approach by addressing the organizational conditions required for available Human Energy and capability to become effective application.
+> **Why does action depend on someone or something else?**
 
-The distinction is important.
+### CONSTRAINT
 
-**3C Strategic Approach asks:**
+> **What is preventing effective action?**
 
-> **What is the Source, Dependency, or Constraint, and how should it be continuously addressed?**
+These are the canonical 3C contexts.
+
+They are not mandatory sequential stages.
+
+HEEn complements 3C by addressing the organizational conditions required for available Human Energy and capability to become effective application.
+
+The distinction is:
+
+**3C asks:**
+
+> **Where should strategic attention be directed — Source, Dependency, or Constraint?**
 
 **HEEn asks:**
 
@@ -474,13 +483,13 @@ The distinction is important.
 
 Therefore:
 
-> **3C changes the strategic question. HEEn strengthens the enabling condition.**
+> **3C directs attention. HEEn strengthens the enabling condition.**
 
 3C and HEEn are complementary rather than interchangeable.
 
 ---
 
-# 18. HEEn AND 5R CASCADE
+# 18. HEEn AND THE 5R CASCADE
 
 The **5R Cascade** determines the appropriate treatment of recurring operational demand:
 
@@ -495,6 +504,8 @@ Therefore:
 > **5R determines the disposition of recurring demand. HEEn enables effective application to the work that remains.**
 
 This preserves a clear boundary between **demand disposition** and **capability application**.
+
+The relationship is complementary, not a mandatory sequence.
 
 ---
 
@@ -515,10 +526,11 @@ EES focuses on:
 - alignment
 - execution
 - monitoring
+- control
 - adaptation
 - outcomes
 
-The relationship is:
+The relationship can be represented as:
 
 > **HEEn → Effective Application → EES → Sustained Execution**
 
@@ -763,6 +775,8 @@ The logic can therefore be expressed as:
 
 > **Expected Application → Capability → Condition → Enablement → Application → Execution → Learning → Adaptation**
 
+This is a management logic, not a claim that every organizational case follows an identical causal sequence.
+
 ---
 
 # 30. PRIORITIZATION
@@ -798,7 +812,7 @@ Leaders can ask:
 
 A concise leadership test is:
 
-> **What capability exists? What is preventing its application? What condition must change next?**
+> **What capability exists? What is preventing its application? What organizational condition must change next?**
 
 This keeps diagnosis focused on conditions without removing individual responsibility where individual responsibility is genuinely relevant.
 
@@ -1046,7 +1060,7 @@ Within that architecture, distinct mechanisms address distinct questions.
 ## OSF — Operational Silence Framework
 **Operational Demand / Noise**
 
-Identifies unnecessary recurring operational demand and operational noise.
+Identifies and reduces unnecessary recurring operational demand and operational noise.
 
 **Core question:**
 
@@ -1055,15 +1069,15 @@ Identifies unnecessary recurring operational demand and operational noise.
 ## 3C Strategic Approach
 **Source / Dependency / Constraint**
 
-Addresses:
+Directs strategic attention toward the relevant context.
 
-> **Source → Continuous Improvement**  
-> **Dependency → Continuous Empowerment**  
-> **Constraint → Continuous Constraint Reduction**
+**Core questions:**
 
-**Core question:**
+> **Why does this keep arising?**
 
-> **What is the Source, Dependency, or Constraint, and how should it be continuously addressed?**
+> **Why does action depend on someone or something else?**
+
+> **What is preventing effective action?**
 
 ## 5R Cascade
 **Recurring Demand Disposition**
@@ -1118,9 +1132,9 @@ Therefore:
 
 > **HEE explains.**  
 > **OEOS/OOS orchestrates.**  
-> **OSF identifies unnecessary operational demand.**  
-> **3C Strategic Approach addresses Sources, Dependencies, and Constraints.**  
-> **5R determines the disposition of recurring demand.**  
+> **OSF reduces unnecessary demand.**  
+> **3C directs attention.**  
+> **5R determines disposition.**  
 > **HEMS manages Human Energy.**  
 > **HEA diagnoses.**  
 > **HERF recovers.**  
@@ -1224,15 +1238,18 @@ Determine recurring-demand disposition
 **3C Role:**  
 Direct strategic attention toward Source, Dependency, or Constraint
 
-**Core Question:**  
+**Core Question:**
+
 > **Are people enabled to apply their capability effectively?**
 
-**Leadership Test:**  
+**Leadership Test:**
+
 > **What capability exists?**  
 > **What is preventing its application?**  
 > **What organizational condition must change next?**
 
-**Core Principle:**  
+**Core Principle:**
+
 > **Develop what is missing. Enable what already exists.**
 
 ---
@@ -1246,10 +1263,10 @@ The economic lens.
 The management and operating architecture.
 
 **Operational Silence Framework (OSF)**  
-Identifies unnecessary recurring operational demand and operational noise.
+Identifies and reduces unnecessary recurring operational demand and operational noise.
 
 **3C Strategic Approach**  
-Addresses Sources, Dependencies, and Constraints.
+Directs attention toward Source, Dependency, and Constraint.
 
 **5R Cascade**  
 Determines the disposition of recurring operational demand.
@@ -1271,11 +1288,25 @@ Manages execution, monitoring, adaptation, and growth.
 
 ---
 
-# 46. CREATOR
+# 46. CREATOR AND MAINTAINER
 
 **Md. Mozammel Hoque**  
 *Independent Management Researcher*  
 *Originator of Human Energy Economics (HEE)*
+
+Creator and maintainer of:
+
+- Human Energy Economics (HEE)
+- Organizational Excellence Operating System (OEOS / OOS)
+- Operational Silence Framework (OSF)
+- 3C Strategic Approach
+- 5R Cascade Framework
+- Human Energy Management System (HEMS)
+- Human Energy Audit (HEA)
+- Human Energy Recovery Framework (HERF)
+- Human Energy Development Plan (HEDP)
+- Human Energy Enablement (HEEn)
+- Execution Excellence System (EES)
 
 ---
 
@@ -1291,13 +1322,11 @@ HEEn is an organizational enablement framework derived from the HEE perspective 
 
 # 48. LICENSE
 
-This framework is an original conceptual work of **Md. Mozammel Hoque**.
+This framework is published as part of the repository containing this document.
 
-It may be referenced, discussed, and academically examined with appropriate attribution.
+Use, reproduction, modification, and redistribution are governed by the repository's applicable **LICENSE** file.
 
-Commercial reproduction, adaptation, or representation as another person's original framework requires permission from the creator.
-
-The repository publication and licensing terms should be read together with the repository's applicable **LICENSE** file.
+The canonical identity, authorship, and attribution of the framework should be preserved when the framework is referenced, reproduced, or adapted.
 
 ---
 
@@ -1326,7 +1355,7 @@ Sometimes it is **enablement**.
 
 HEEn therefore asks:
 
-> **Are we developing more capability—or creating the conditions that allow the capability we already have to be effectively applied?**
+> **Are we developing more capability — or creating the conditions that allow the capability we already have to be effectively applied?**
 
 And within the broader HEE logic:
 
