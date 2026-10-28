@@ -85,7 +85,7 @@ These definitions follow the closed HEE Core reference available for this revisi
 
 ## The Decision Point
 
-*Quoted from the Core README’s The Decision Point (the canonical text). If the two differ, the Core README governs.*
+*Quoted from the Core README’s The Decision Point (the canonical text, without its illustrative example). If the two differ, the Core README governs.*
 
 Within HEE, consequential decisions along the pathway from capability to sustainable results should be explicit and reviewable. Evaluate them using four distinct definitions:
 
@@ -412,7 +412,7 @@ Choose the destination that answers your next question. You need not read every 
 | [3C Strategic Approach](https://github.com/titumozammel/3c-strategic-approach) | Where should I look: Source, Dependency, or Constraint? |
 | [5R Cascade Framework](https://github.com/titumozammel/5r-cascade-framework) | Should recurring demand be removed, reduced, replaced, re-engineered, or retained? |
 | [Human Energy Enablement](https://github.com/titumozammel/human-energy-enablement) | Which conditions prevent existing capability from being applied? |
-| [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | How should execution be managed, controlled, and adapted? |
+| [Execution Excellence System](https://github.com/titumozammel/execution-excellence-system) | What prevents reliable execution, and how do we fix it and make it hold? |
 | [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) | What do the author-reported practice accounts illustrate, and what remains unverified? |
 
 ### A short learner exercise
@@ -423,16 +423,16 @@ Think of one delayed task. Write down: the expected application; evidence that t
 
 **Md. Mozammel Hoque** — Independent Management Researcher, originator of HEE, and current Chief Innovation Officer at AKG. HEEn is maintained as a developing conceptual framework within the HEE ecosystem. The author provides the commercial diagnostic service **The Capacity Read**, through Ovinabo Advisory. That interest is disclosed for transparency; service use and client testimonials do not validate HEEn. This document does not require purchase of a service.
 
-**Revision record — 28 October 2026.** Consolidates the supplied companion draft; retains the six areas and development/enablement distinction; adds the five-column question map, three investigation routes, audit record, differential diagnosis, four decision concepts, separate justification and coverage checks, owner review, EX/CX mechanism, research decision rules, and repository routing. Corrects absolute training and trial-failure claims, the false assertion that every neighboring mechanism has its own repository, and the conflation of restriction necessity with expenditure justification. Removes repetitive identity statements and the text diagram that placed SEC after Value without explaining renewal.
+**Revision record — 28 October 2026.** Consolidates the earlier draft; retains the six areas and development/enablement distinction; adds the five-column question map, three investigation routes, audit record, differential diagnosis, four decision concepts, separate justification and coverage checks, owner review, EX/CX mechanism, research decision rules, and repository routing. Corrects absolute training and trial-failure claims, the false assertion that every neighboring mechanism has its own repository, and the conflation of restriction necessity with expenditure justification. Removes repetitive identity statements and the text diagram that placed SEC after Value without explaining renewal.
 
 This is a revised Version 1.0 working document, not an assertion that an existing published release tag was changed. Preserve an already published frozen edition; record a new release identifier through the repository’s version process if required.
 
-**Alignment basis.** Shared definitions and architecture were checked against the supplied HEE Core dated 27 October 2026, author profile, and revised AKG record. Public URLs are supplied as reader destinations; current live contents, release tags, and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
+**Alignment basis.** Shared definitions and architecture were checked against the HEE Core dated 27 October 2026, the author profile, and the AKG record. Public URLs are provided as reader destinations; current live contents, release tags, and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
 
 ## License
 
-**MIT License**, as designated in the supplied HEEn draft. Copyright © 2026 Md. Mozammel Hoque. The full repository license should be maintained in [LICENSE](https://github.com/titumozammel/human-energy-enablement/blob/main/LICENSE). Confirm the repository file and default-branch path when publishing; this document does not claim that the linked file was verified.
+This framework is released under the:
 
-Use, modification, and distribution are governed by the actual MIT License text, including its notice requirements. As a scholarly practice, describe provisional claims accurately and identify adaptations; that request is not an additional license restriction. A license permits reuse, not a claim of scientific validation or author endorsement.
+> **MIT License**
 
-**Develop what is missing. Enable what already exists. Check what the next cycle needs.**
+The license permits use, modification, distribution, and further development subject to the terms of the MIT License. Copyright © 2026 Md. Mozammel Hoque. The full text is in the `LICENSE` file in the repository. Attribution is requested as a scholarly practice; it is not an additional license restriction. A license permits reuse, not a claim of scientific validation or author endorsement.
