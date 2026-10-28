@@ -427,7 +427,7 @@ Think of one delayed task. Write down: the expected application; evidence that t
 
 This is a revised Version 1.0 working document, not an assertion that an existing published release tag was changed. Preserve an already published frozen edition; record a new release identifier through the repository’s version process if required.
 
-**Alignment basis.** Shared definitions and architecture were checked against the HEE Core dated 27 October 2026, the author profile, and the AKG record. Public URLs are provided as reader destinations; current live contents, release tags, and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
+**Alignment basis.** Shared definitions and architecture were checked against the HEE Core dated 28 October 2026, the author profile, and the AKG record. Public URLs are provided as reader destinations; current live contents, release tags, and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
 
 ## License
 
