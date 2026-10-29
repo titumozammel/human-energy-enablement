@@ -419,15 +419,9 @@ Choose the destination that answers your next question. You need not read every 
 
 Think of one delayed task. Write down: the expected application; evidence that the skill exists; available time; what the task waited for; one alternative explanation; and the smallest evidence request or authorized change that would discriminate. Choose Diagnose, Establish, or Verify and explain why. Review your reasoning before proposing training or removing a control. [Return to the question map](#find-your-question).
 
-## Author, disclosure, and revision
+## Author and disclosure
 
 **Md. Mozammel Hoque** — Independent Management Researcher, originator of HEE, and current Chief Innovation Officer at AKG. HEEn is maintained as a developing conceptual framework within the HEE ecosystem. The author provides the commercial diagnostic service **The Capacity Read**, through Ovinabo Advisory. That interest is disclosed for transparency; service use and client testimonials do not validate HEEn. This document does not require purchase of a service.
-
-**Revision record — 28 October 2026.** Consolidates the earlier draft; retains the six areas and development/enablement distinction; adds the five-column question map, three investigation routes, audit record, differential diagnosis, four decision concepts, separate justification and coverage checks, owner review, EX/CX mechanism, research decision rules, and repository routing. Corrects absolute training and trial-failure claims, the false assertion that every neighboring mechanism has its own repository, and the conflation of restriction necessity with expenditure justification. Removes repetitive identity statements and the text diagram that placed SEC after Value without explaining renewal.
-
-This is a revised Version 1.0 working document, not an assertion that an existing published release tag was changed. Preserve an already published frozen edition; record a new release identifier through the repository’s version process if required.
-
-**Alignment basis.** Shared definitions and architecture were checked against the HEE Core dated 28 October 2026, the author profile, and the AKG record. Public URLs are provided as reader destinations; current live contents, release tags, and the repository LICENSE file were not independently verified for this revision. Editorial readiness and structural link checks do not establish empirical validity or tested reader enjoyment.
 
 ## License
 
