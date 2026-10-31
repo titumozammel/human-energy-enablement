@@ -5,11 +5,11 @@
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
-**Version 1.0 — Revised companion framework**  
-**Revision date: 28 October 2026**  
+**Version 1.0 — Companion framework**  
+**Revision date: 31 October 2026**  
 **Status: provisional research and practice reference**
 
-[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [HEEn repository](https://github.com/titumozammel/human-energy-enablement)
+[HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [3C](https://github.com/titumozammel/3c-strategic-approach) · [5R Cascade](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [EES](https://github.com/titumozammel/execution-excellence-system)
 
 > **Precision statement.** Human Energy Enablement is HEE’s proposed framework for investigating organizational conditions that restrict the application of existing capability. It helps readers distinguish missing capability, insufficient available capacity, disconnected capability, and blocked application; establish what evidence is needed; select a proportionate response; and review its consequences. It does not establish a cause from a performance shortfall, guarantee better decisions, or demonstrate that improved application protects future capacity.
 
@@ -76,7 +76,7 @@ Read the document in sequence only if useful. Follow the question map when you h
 
 ## Definitions and distinctions
 
-These definitions follow the closed HEE Core reference available for this revision.
+These definitions follow the HEE Core README.
 
 | Term | Working meaning | Practical distinction |
 | --- | --- | --- |
@@ -126,7 +126,6 @@ These routes can inform one another; they are not compulsory sequential stages.
 **The compressed conversion pathway and evidence boundaries.** Capability → Application → Execution → Value → Sustainable Growth. This compressed pathway does not replace the core model’s Human Energy, Connection, Decision Process Quality, Organizational Enablement, capacity, or renewal conditions. The Decision Point operates throughout this intended pathway. It makes choices and their consequences inspectable; it does not guarantee progression or sustainable results.
 
 Customer Experience outcomes provide important evidence of customer-facing value. Sustainable Growth requires examining CX alongside employee experience, operating results, future-capacity coverage, and wider value consequences over time. Good CX alone does not establish that future delivery can be sustained.
-
 
 ## What HEEn contributes
 
@@ -356,7 +355,7 @@ Some elements are documented within the core and have no separate repository. Ma
 
 **Growth [P].** Growth may add interfaces and enablement demands, but it can also bring resources, simplification, and scale benefits. Test the conditions rather than assuming complexity must worsen. Service and experience commitments can orient inquiry, but SLA → XLA → HEE → HEEn is not a validated causal sequence.
 
-**Descriptive progression [P].** Constrained, Aware, Responsive, Enabled, Integrated, Adaptive, Sustainable are optional descriptive prompts retained from earlier HEEn editions. They are not an established ordered maturity scale, a certification, or grounds to score organizations or people. Improvement can be uneven and reversible.
+**Descriptive progression [P].** Constrained, Aware, Responsive, Enabled, Integrated, Adaptive, Sustainable are optional descriptive prompts. They are not an established ordered maturity scale, a certification, or grounds to score organizations or people. Improvement can be uneven and reversible.
 
 ## Relationship to the AKG practice record
 
