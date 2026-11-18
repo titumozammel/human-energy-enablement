@@ -17,9 +17,9 @@
 
 > **Approach.** HEE does not treat management as one formula for every situation. It is a way to organize your questions, and it comes from practice. Each problem is examined on its own terms. Practitioners use evidence and judgment to choose, adapt, and review what fits the context. HEE supports judgment that is based on evidence; it does not replace judgment.
 >
-> HEE draws on the author’s experience, knowledge, and wisdom, including applications and observed results reported by the author. Its broader claims about reliability, effectiveness, and added value remain open to independent testing, and the research sections state what would narrow or retire them. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note).
+> HEE draws on the author’s knowledge, experience, wisdom, and judgment, developed through years of practice, including applications and observed results reported by the author. Its broader claims about reliability, effectiveness, and added value remain open to independent testing, and the research sections state what would narrow or retire them. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note).
 
-> **Foundation.** HEE is based on the author’s experience, knowledge, and wisdom. It follows a path from observation to research to application and execution: investigating each problem in its specific context, acting on it, working proactively to prevent recurrence, and supporting sustainable results. The author reports positive results from applying this practice in current and previous roles; specific outcomes are not detailed in this passage and have not been independently verified. HEE’s questions are not specific to any sector. Readers are invited to adapt them to businesses, public services, nonprofits, schools, and individual learning. Application in the author’s professional roles does not by itself show suitability for every setting, so check the context first.
+> **Foundation.** HEE is based on the author’s knowledge, experience, wisdom, and judgment, developed through years of practice. It follows a path from observation to research to application and execution: investigating each problem in its specific context, acting on it, working proactively to prevent recurrence, and supporting sustainable results. The author reports positive results from applying this practice in current and previous roles; specific outcomes are not detailed in this passage and have not been independently verified. HEE’s questions are not specific to any sector. Readers are invited to adapt them to businesses, public services, nonprofits, schools, and individual learning. Application in the author’s professional roles does not by itself show suitability for every setting, so check the context first.
 >
 > In HEEn this shows as examining what prevents capable people from applying their capability in the specific situation.
 
@@ -28,7 +28,7 @@
 - **Labels:** **[H]** marks a practice heuristic, a rule of thumb from practice. **[Illustrative]** marks an invented example, not reported evidence. **[P]** marks a specific construct, relationship, or claim that remains untested. Labels are used sparingly: practical instructions and HEE’s practice origin carry none. A label describes the status of a claim, not its certainty in every setting.
 - **Unknown and Not recorded:** **Unknown** means the available evidence does not support a defensible determination. **Not recorded** means this edition contains no record; it does not mean the event never occurred or that no record exists elsewhere.
 - **What would change HEEn:** see [Open questions](#research-agenda-and-tests). What would narrow or retire HEEn is in [Research notes](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#heen-research-agenda-and-tests).
-- **What HEEn is not:** not validated, not shown to be better than existing methods, and not a clinical, compliance, or audit tool.
+- **What HEEn is not:** not independently validated, not shown to be better than existing methods, and not a clinical diagnostic tool or a substitute for applicable compliance requirements or professional audit standards.
 
 **Start here:** **[Use it today](#use-it-today)** is the front door: three questions and a worked example. Then use the [Reader’s guide](#readers-guide) for your role, or [Find your question](#find-your-question). The other sections, such as [Definitions](#definitions-and-distinctions), [Open questions](#research-agenda-and-tests), and [License](#license), are reached from these.
 
@@ -83,7 +83,7 @@ You do not need to know the rest of HEE to use this card. Start with one situati
 
 **What that tells me.** The capability exists and is blocked. The nearest pillar is *Resource* (she cannot get what she needs at the point of use), and possibly *Structural*.
 
-**Before opening access.** I would ask why access is limited. Suppose it is a licence limit. A weekly read-only extract may serve her without breaking the restriction.
+**Before opening access.** I would ask why access is limited. Suppose it is a licence limit. Check with the licence and data owners whether an authorized read-only extract could meet her need while preserving the restriction.
 
 **One bounded action.** Send her the lead-time extract each week for one month.
 
@@ -91,7 +91,7 @@ You do not need to know the rest of HEE to use this card. Start with one situati
 
 **If several conditions seem to occur together:** record each possibility and establish the next useful evidence before choosing a response (see the diagnosis table under [Diagnose](#diagnose-from-symptom-to-supported-explanation)).
 
-**Where it does not fit:** if capability is truly missing, enablement will not help; develop it. HEEn is not a tool for monitoring individuals or ranking performance.
+**Where it does not fit:** enablement does not supply missing capability. Develop the required skill and address any coexisting enablement barriers. HEEn is not a tool for monitoring individuals or ranking performance.
 
 **A useful next step:** before you act, ask the four [Decision Point](#the-decision-point) questions about your decision; afterwards record in a few lines what you saw, what you changed, and what you will check next cycle, then look again.
 
@@ -103,7 +103,7 @@ You do not need to know the rest of HEE to use this card. Start with one situati
 
 ## HEE in four questions
 
-**1. What is HEE?** Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a practice-driven approach: it comes from real work. Human Energy Enablement (HEEn) is the proposed framework for investigating organizational conditions that restrict the application of existing capability.
+**1. What is HEE?** Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) management approach to organizational capacity and sustainable execution. Human Energy Enablement (HEEn) is the framework for investigating organizational conditions that restrict the application of existing capability.
 
 **2. What does HEE contribute?** HEE offers one connected way to ask three things: what limits execution, what evidence supports the answer, and whether others can review the decision and its results. It also asks two separate questions: was the capacity we used *Justified?*, and is the real demand of the next cycle *Covered?* This is a proposal. It is not yet an established finding, and it is not shown to be better than other approaches. HEEn adds a way to distinguish missing capability, insufficient available capacity, disconnected capability, and blocked application.
 
@@ -243,7 +243,7 @@ Two sales teams miss quote-turnaround targets. Asking only “Who needs training
 
 **Illustrative result.** Median turnaround falls from three working days to one; pricing errors remain unchanged, but overtime rises. This supports a narrower account of reduced waiting, not a claim of sustainable improvement. A simultaneous fall in quote complexity would weaken attribution further. The owner must address overtime and next-cycle coverage before expanding the trial.
 
-**The four decision reviews.** Delegation and backup establish Decision Enablement. The options, evidence, and safeguards describe Decision Process Quality. The trial choice is judged against what was known before it began. Turnaround, errors, and overtime describe Decision Outcome Quality. These assessments may differ.
+**The four decision reviews.** The trial owner’s decision rights, authority, information and access support Decision Enablement. Delegation and backup are the operational changes being tested. The options, evidence, and safeguards describe Decision Process Quality. The trial choice is judged against what was known before it began. Turnaround, errors, and overtime describe Decision Outcome Quality. These assessments may differ.
 
 ## Investigate: choose the route
 
@@ -424,7 +424,7 @@ In HEE, Sustainable Growth concerns continuing value creation without underminin
 
 ## Boundaries and architecture
 
-HEE is the capacity lens informed by economic questions. **OEOS** is the proposed operating architecture; **HEMS** is its Human Energy and capability-management component. HEEn supplies the application-specific enablement role. These are proposed constructs, not validated systems. The five conversion conditions remain **Human Energy, Capability, Connection, Decision Process Quality, and Organizational Enablement**; SEC is an intended outcome, not a sixth conversion condition.
+HEE is the capacity lens informed by economic questions. **OEOS** is the operating architecture; **HEMS** is its Human Energy and capability-management component. HEEn supplies the application-specific enablement role. These are proposed constructs, not validated systems. The five conversion conditions remain **Human Energy, Capability, Connection, Decision Process Quality, and Organizational Enablement**; SEC is an intended outcome, not a sixth conversion condition.
 
 | Related element | Its role | HEEn boundary |
 | --- | --- | --- |
@@ -513,7 +513,7 @@ Think of one delayed task. Write down: the expected application; evidence that t
 
 **Author position and disclosure.** The author originated HEE and HEEn, serves as Chief Innovation Officer at AKG (Abul Khair Group), Bangladesh, where part of the practice record originated, and has a commercial and professional interest in how HEE and HEEn are received. Practice observations from AKG are author-reported, not independent assessment.
 
-**A note from the author.** HEE comes from my life journey: my experience, knowledge, and wisdom, developed across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I always began with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my experience, knowledge, and wisdom as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com).
+**A note from the author.** HEE comes from my knowledge, experience, wisdom, and judgment, developed through years of practice across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I always began with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my knowledge, experience, wisdom, and judgment as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com). Website: [ovinabo.com](https://ovinabo.com/).
 
 ## License
 
