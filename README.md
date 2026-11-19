@@ -2,8 +2,6 @@
 
 ## Enabling existing capability for effective application and sustainable execution
 
-*What HEEn does and does not show is set out in the precision statement below.*
-
 **Md. Mozammel Hoque**  
 *Independent Management Researcher · Originator of Human Energy Economics (HEE)*
 
@@ -11,51 +9,13 @@
 **Initial publication date: 31 October 2026**  
 [HEE Core](https://github.com/titumozammel/human-energy-economics) · [Author profile](https://github.com/titumozammel) · [HEE Case Studies](https://github.com/titumozammel/hee-case-studies) · [OSF](https://github.com/titumozammel/operational-silence-framework) · [3C](https://github.com/titumozammel/3c-strategic-approach) · [5R Cascade](https://github.com/titumozammel/5r-cascade-framework) · [HEEn](https://github.com/titumozammel/human-energy-enablement) · [EES](https://github.com/titumozammel/execution-excellence-system)
 
-> **Precision statement.** Human Energy Enablement is HEE’s practice-driven framework for investigating organizational conditions that restrict the application of existing capability. It helps readers distinguish missing capability, insufficient available capacity, disconnected capability, and blocked application; establish what evidence is needed; select a proportionate response; and review its consequences. It does not establish a cause from a performance shortfall, show that it leads to better decisions, or demonstrate that improved application protects future capacity.
+**In 60 seconds.** When work stalls, distinguish missing capability from insufficient usable capacity, poor connection or blocked application. HEEn focuses on the conditions that prevent existing capability from being applied. Missing skill and blocked application call for different responses—and may coexist. → [Use it today](#use-it-today)
 
-> **Evidence status.** HEEn is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) framework, derived from the author’s practice, and is not a validated diagnostic instrument. Its six pillars, diagnostic distinctions, and decision aids require testing. Established research overlaps with the framework in places; it does not validate HEEn’s particular categories or demonstrate incremental usefulness. The author originated HEE and HEEn and has a commercial interest disclosed below. The cases in HEE Case Studies are examples from the author’s experience (author-reported), not independent tests of this framework. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) governs shared terminology where the documents differ.
+> **Status.** HEEn comes from the author’s practice. Examples marked [Illustrative] are invented. Author-reported results have not been independently verified. Try it in your context, and tell the author what you find.
 
-> **Approach.** HEE does not treat management as one formula for every situation. It is a way to organize your questions, and it comes from practice. Each problem is examined on its own terms. Practitioners use evidence and judgment to choose, adapt, and review what fits the context. HEE supports judgment that is based on evidence; it does not replace judgment.
->
-> HEE draws on the author’s knowledge, experience, wisdom, and judgment, developed through years of practice, including applications and observed results reported by the author. Its broader claims about reliability, effectiveness, and added value remain open to independent testing, and the research sections state what would narrow or retire them. Readers are invited to test HEE in their own setting and, if they do not see the result they expect, to write to the author (see the author’s note).
-
-> **Foundation.** HEE is based on the author’s knowledge, experience, wisdom, and judgment, developed through years of practice. It follows a path from observation to research to application and execution: investigating each problem in its specific context, acting on it, working proactively to prevent recurrence, and supporting sustainable results. The author reports positive results from applying this practice in current and previous roles; specific outcomes are not detailed in this passage and have not been independently verified. HEE’s questions are not specific to any sector. Readers are invited to adapt them to businesses, public services, nonprofits, schools, and individual learning. Application in the author’s professional roles does not by itself show suitability for every setting, so check the context first.
->
-> In HEEn this shows as examining what prevents capable people from applying their capability in the specific situation.
-
-**How to read the status of HEEn**
-
-- **Labels:** **[H]** marks a practice heuristic, a rule of thumb from practice. **[Illustrative]** marks an invented example, not reported evidence. **[P]** marks a specific construct, relationship, or claim that remains untested. Labels are used sparingly: practical instructions and HEE’s practice origin carry none. A label describes the status of a claim, not its certainty in every setting.
-- **Unknown and Not recorded:** **Unknown** means the available evidence does not support a defensible determination. **Not recorded** means this edition contains no record; it does not mean the event never occurred or that no record exists elsewhere.
-- **What would change HEEn:** see [Open questions](#research-agenda-and-tests). What would narrow or retire HEEn is in [Research notes](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#heen-research-agenda-and-tests).
-- **What HEEn is not:** not independently validated, not shown to be better than existing methods, and not a clinical diagnostic tool or a substitute for applicable compliance requirements or professional audit standards.
-
-**Start here:** **[Use it today](#use-it-today)** is the front door: three questions and a worked example. Then use the [Reader’s guide](#readers-guide) for your role, or [Find your question](#find-your-question). The other sections, such as [Definitions](#definitions-and-distinctions), [Open questions](#research-agenda-and-tests), and [License](#license), are reached from these.
+**Start here:** **[Use it today](#use-it-today)** is the front door: three questions and a worked example. Then use the [Reader’s guide](#readers-guide) for your role, or [Find your question](#find-your-question). The other sections, such as [Status and evidence](#status-and-evidence), [Definitions](#definitions-and-distinctions), [Open questions](#research-agenda-and-tests), and [License](#license), are reached from these.
 
 HEEn is readable on its own; cross-references exist because it is one of a family of companion frameworks, not a comprehensive method.
-
-## Reader's guide
-
-Capable people can still wait for access, approval, or decisions. This guide shows where to enter HEEn for your role.
-
-| Audience | What you can take away | Start here | First useful step | Suggested time |
-| --- | --- | --- | --- | --- |
-| **Board and audit committee** | A way to ask whether capable people are blocked from applying what they can do | [Verify: practice against a standard](#verify-practice-against-a-standard). Then skim: [Justified expenditure and future coverage](#justified-expenditure-and-future-coverage) | Ask what enablement barrier was tested before capability was blamed | 10 min |
-| **CEO, C-suite, and owners** | A way to separate a capability gap from an enablement barrier, or both together | [Use it today](#use-it-today), [Owner decision record](#owner-decision-record). Then skim: [Six enablement pillars](#six-enablement-pillars) | Take one case of capable people waiting and ask which pillar is involved | 15 min |
-| **Operations managers and team leaders** | Six enablement pillars to check before concluding that people need more development | [One case from question to review](#one-case-from-question-to-review), [Six enablement pillars](#six-enablement-pillars). Then skim: [Test the constraint before changing it](#test-the-constraint-before-changing-it) | Check one stalled task against the six pillars | 25 min |
-| **Practitioners and consultants** | A route from symptom to supported explanation, with an audit record | [Investigate: choose the route](#investigate-choose-the-route), [Diagnose: from symptom to supported explanation](#diagnose-from-symptom-to-supported-explanation). Then skim: [Audit example and reusable record](#audit-example-and-reusable-record), [Owner decision record](#owner-decision-record) | Run the diagnose route on one live symptom and record what stays Unknown | 40 min |
-| **Researchers** | Open questions and how HEEn could be tested | [Open questions](#research-agenda-and-tests), then [HEEn: research agenda and tests](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#heen-research-agenda-and-tests) in Research notes | Choose one open question and plan a fair test | 30 min |
-| **New to HEE** | What enablement means and how it differs from development | [Use it today](#use-it-today), [The question HEEn answers](#the-question-heen-answers). Then skim: [HEE in four questions](#hee-in-four-questions) | Read the worked example and name one stalled task of your own | 10 min |
-
-*Times are suggested allocations, not measured; reading speeds differ. Take-aways describe what a reader can use, not an outcome this document can assure. The first useful step is a suggestion; the decision stays yours.*
-
-**Also useful for any role:** [The Decision Point](#the-decision-point) for judging a decision, and [HEE in four questions](#hee-in-four-questions) for the HEE frame before the detail here.
-
-**First step for every role:** write one line each for your Time, Object, and Location ([Start with your context](https://github.com/titumozammel/human-energy-economics#start-with-your-context-when-what-and-where)), then use the role row that fits.
-
-**Only five minutes?** Read [Use it today](#use-it-today), then [Six enablement pillars](#six-enablement-pillars).
-
-**You can defer on a first reading:** the Related approaches note and the Open questions, unless you are a researcher. Read the evidence-status summary before applying the guidance.
 
 ## Use it today
 
@@ -93,7 +53,7 @@ You do not need to know the rest of HEE to use this card. Start with one situati
 
 **Where it does not fit:** enablement does not supply missing capability. Develop the required skill and address any coexisting enablement barriers. HEEn is not a tool for monitoring individuals or ranking performance.
 
-**A useful next step:** before you act, ask the four [Decision Point](#the-decision-point) questions about your decision; afterwards record in a few lines what you saw, what you changed, and what you will check next cycle, then look again.
+**A useful next step:** before you act, check your decision against the four [Decision Point](#the-decision-point) assessments; afterwards record in a few lines what you saw, what you changed, and what you will check next cycle, then look again.
 
 **Go deeper:** [Six enablement pillars](#six-enablement-pillars) · [Test the constraint before changing it](#test-the-constraint-before-changing-it) · [One case from question to review](#one-case-from-question-to-review)
 
@@ -101,15 +61,38 @@ You do not need to know the rest of HEE to use this card. Start with one situati
 
 ---
 
+## Reader's guide
+
+Capable people can still wait for access, approval, or decisions. This guide shows where to enter HEEn for your role.
+
+| Audience | What you can take away | Start here | First useful step | Suggested time |
+| --- | --- | --- | --- | --- |
+| **Board and audit committee** | A way to ask whether capable people are blocked from applying what they can do | [Verify: practice against a standard](#verify-practice-against-a-standard). Then skim: [Justified expenditure and future coverage](#justified-expenditure-and-future-coverage) | Ask what enablement barrier was tested before capability was blamed | 10 min |
+| **CEO, C-suite, and owners** | A way to separate a capability gap from an enablement barrier, or both together | [Use it today](#use-it-today), [Owner decision record](#owner-decision-record). Then skim: [Six enablement pillars](#six-enablement-pillars) | Take one case of capable people waiting and ask which pillar is involved | 15 min |
+| **Operations managers and team leaders** | Six enablement pillars to check before concluding that people need more development | [One case from question to review](#one-case-from-question-to-review), [Six enablement pillars](#six-enablement-pillars). Then skim: [Test the constraint before changing it](#test-the-constraint-before-changing-it) | Check one stalled task against the six pillars | 25 min |
+| **Practitioners and consultants** | A route from symptom to supported explanation, with an audit record | [Investigate: choose the route](#investigate-choose-the-route), [Diagnose: from symptom to supported explanation](#diagnose-from-symptom-to-supported-explanation). Then skim: [Audit example and reusable record](#audit-example-and-reusable-record), [Owner decision record](#owner-decision-record) | Run the diagnose route on one live symptom and record what stays Unknown | 40 min |
+| **Researchers** | Open questions and how HEEn could be tested | [Open questions](#research-agenda-and-tests), then [HEEn: research agenda and tests](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#heen-research-agenda-and-tests) in Research notes | Choose one open question and plan a fair test | 30 min |
+| **New to HEE** | What enablement means and how it differs from development | [Use it today](#use-it-today), [The question HEEn answers](#the-question-heen-answers). Then skim: [HEE in four questions](#hee-in-four-questions) | Read the worked example and name one stalled task of your own | 10 min |
+
+*Times are suggestions, not measurements. The first useful step is a suggestion; the decision stays yours.*
+
+**Also useful for any role:** [The Decision Point](#the-decision-point) for judging a decision, and [HEE in four questions](#hee-in-four-questions) for the HEE frame before the detail here.
+
+**First step for every role:** write one line each for your Time, Object, and Location ([Start with your context](https://github.com/titumozammel/human-energy-economics#start-with-your-context-when-what-and-where)), then use the role row that fits.
+
+**Only five minutes?** Read [Use it today](#use-it-today), then [Six enablement pillars](#six-enablement-pillars).
+
+**You can defer on a first reading:** the Related approaches note and the Open questions, unless you are a researcher. Read the evidence-status summary before applying the guidance.
+
 ## HEE in four questions
 
-**1. What is HEE?** Human Energy Economics (HEE) is a capacity lens informed by economic questions about scarcity, opportunity cost, renewal, and future value. It is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) management approach to organizational capacity and sustainable execution. Human Energy Enablement (HEEn) is the framework for investigating organizational conditions that restrict the application of existing capability.
+**1. What is HEE?** Human Energy Economics (HEE) is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) management approach to organizational capacity and sustainable execution. It is a capacity lens (a way of looking at capacity) informed by economic questions about scarcity, opportunity cost, renewal, and future value. Human Energy Enablement (HEEn) is the framework for investigating organizational conditions that restrict the application of existing capability.
 
-**2. What does HEE contribute?** HEE offers one connected way to ask three things: what limits execution, what evidence supports the answer, and whether others can review the decision and its results. It also asks two separate questions: was the capacity we used *Justified?*, and is the real demand of the next cycle *Covered?* This is a proposal. It is not yet an established finding, and it is not shown to be better than other approaches. HEEn adds a way to distinguish missing capability, insufficient available capacity, disconnected capability, and blocked application.
+**2. What does HEE contribute?** One connected way to ask what limits execution, what evidence supports the answer, and whether others can review the decision. It keeps two judgments separate: was the capacity spent *Justified?*, and will the next cycle’s demand be *Covered?* Whether this adds value beyond existing approaches remains open to independent testing. HEEn adds a way to distinguish missing capability, insufficient available capacity, disconnected capability, and blocked application.
 
-**3. How do I apply it to my problem?** *Context shapes the route.* Start with the problem you can see and the decision you need to make. Then choose and combine three routes: **Diagnose** (look for possible causes), **Establish** (collect the evidence you need for a sound conclusion), and **Verify** (compare what is done with a stated standard). The routes work together; you do not have to follow them in order. Change the route when the evidence or the conditions change. Every route depends on context and evidence. Use this document when a capable team is not applying its capability and the limiting condition is unclear. The Core’s signature question is: *What prevents the capability we have from becoming execution—and what must change next?*
+**3. How do I apply it to my problem?** Start with the problem you can see and the decision you need to make. Context shapes the route: **Diagnose** (look for causes), **Establish** (collect missing evidence) or **Verify** (compare practice with a standard). The routes are not stages; change route as the evidence changes. Use this document when a capable team is not applying its capability and the limiting condition is unclear. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) explains the routes and the six practitioner moves.
 
-**4. How should I use HEE?** Use HEE to ask better questions and to review decisions with your own evidence and judgment. It supports your thinking; it does not replace expert judgment. A performance shortfall alone does not establish a cause. Check in your own case whether the diagnosis leads to a better decision. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions, evidence, and limits.
+**4. How should I use HEE?** Use HEE to ask better questions and review decisions with your own evidence and judgment; it does not replace expert judgment. HEE is an approach to inquiry and judgment; its checklists support that work rather than determine the answer. A performance shortfall alone does not establish a cause. Check in your own case whether the diagnosis leads to a better decision. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions, evidence, and limits.
 
 ## The question HEEn answers
 
@@ -140,7 +123,7 @@ Read the document in sequence only if useful. Follow the question map when you h
 | Question | Primary function | Asked by | Answered in | Decision it unlocks |
 | --- | --- | --- | --- | --- |
 | Is this the right tool for my situation? | Choose a tool | All readers | [Use it today](#use-it-today): when to use HEEn, three questions, and a worked example | Whether to use HEEn or open another tool |
-| What exactly does HEEn help me decide? | Define scope | All readers | [Precision statement](#human-energy-enablement-heen); [central question](#the-question-heen-answers) | Whether HEEn is a suitable starting point |
+| What exactly does HEEn help me decide? | Define scope | All readers | [Status and evidence](#status-and-evidence); [central question](#the-question-heen-answers) | Whether HEEn is a suitable starting point |
 | Should I train, hire, connect people, or change working conditions? | Select a response | Owner, manager | [Differential diagnosis](#diagnose-from-symptom-to-supported-explanation): missing capability, insufficient capacity, disconnected capability, or blocked application, alone or together; [owner record](#owner-decision-record) | Which option to test, approve, or defer |
 | How do I know capability exists? | Establish capability evidence | Practitioner, researcher | [Diagnose](#diagnose-from-symptom-to-supported-explanation) | Whether an enablement explanation is plausible |
 | Why is work waiting or failing? | Diagnose | Practitioner, process owner | [Diagnose](#diagnose-from-symptom-to-supported-explanation) and the [six pillars](#six-enablement-pillars): Resource, Structural, Cultural, Decision, Support, Environmental | Which explanation and smallest useful test to pursue |
@@ -197,7 +180,7 @@ Assess these separately. A good outcome does not prove that the process or choic
 
 **The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
 
-- **Justified?** Was the expenditure of capacity warranted?
+- **Justified?** Was the capacity spent warranted?
 - **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand?
 
 A justified expenditure can still leave future capacity Not covered. Where evidence is insufficient, record Unknown and specify the next evidence request or precautionary action.
@@ -358,7 +341,7 @@ A process can conform to a poorly designed standard and still perform badly. Con
 
 Do not treat all capacity consumption as loss. Learning, maintenance, recovery, incident response, and deliberate investment can be justified. Equally, justified expenditure can leave an actual future shortfall.
 
-**Check 1 — Justified?** Was the expenditure of capacity warranted given its purpose, alternatives, proportionality, constraints, and what could reasonably be known? Answer Yes, Partly, No, or Unknown; if Partly, separate the justified part from the excess. Test the necessity of a restriction separately; the two judgments must not be conflated.
+**Check 1 — Justified?** Was the capacity spent warranted, considering purpose, necessity, proportionality and alternatives? Judge it with the constraints that applied and what could reasonably be known. Answer Yes, Partly, No, or Unknown; if Partly, separate the justified part from the excess. Test the necessity of a restriction separately; the two judgments must not be conflated.
 
 **Check 2 — Covered?** Over a stated next-cycle horizon, does credible expected usable capacity cover legitimate demand under plausible scenarios, with the required capability, access, and credible recovery or renewal assumptions?
 
@@ -424,7 +407,7 @@ In HEE, Sustainable Growth concerns continuing value creation without underminin
 
 ## Boundaries and architecture
 
-HEE is the capacity lens informed by economic questions. **OEOS** is the operating architecture; **HEMS** is its Human Energy and capability-management component. HEEn supplies the application-specific enablement role. These are proposed constructs, not validated systems. The five conversion conditions remain **Human Energy, Capability, Connection, Decision Process Quality, and Organizational Enablement**; SEC is an intended outcome, not a sixth conversion condition.
+HEE is the capacity lens informed by economic questions. **OEOS** (Organizational Excellence Operating System) is the operating architecture; **HEMS** (Human Energy Management System) is its Human Energy and capability-management component. HEEn supplies the application-specific enablement role. These are proposed constructs, not validated systems. The five conversion conditions remain **Human Energy, Capability, Connection, Decision Process Quality, and Organizational Enablement**; SEC is an intended outcome, not a sixth conversion condition.
 
 | Related element | Its role | HEEn boundary |
 | --- | --- | --- |
@@ -506,6 +489,21 @@ Think of one delayed task. Write down: the expected application; evidence that t
 ## Appendix: Descriptive progression (legacy)
 
 **Descriptive progression [P].** Constrained, Aware, Responsive, Enabled, Integrated, Adaptive, Sustainable are optional descriptive prompts. They are not an established ordered maturity scale, a certification, or grounds to score organizations or people. Improvement can be uneven and reversible.
+
+## Status and evidence
+
+**What HEEn is.** Human Energy Enablement is HEE’s practice-driven framework for investigating organizational conditions that restrict the application of existing capability. It helps readers distinguish missing capability, insufficient available capacity, disconnected capability, and blocked application; establish what evidence is needed; select a proportionate response; and review its consequences. It does not establish a cause from a performance shortfall, show that it leads to better decisions, or demonstrate that improved application protects future capacity.
+
+**Evidence status.** HEEn is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) framework, derived from the author’s practice, and is not a validated diagnostic instrument. Its six pillars, diagnostic distinctions, and decision aids require testing. Established research overlaps with the framework in places; it does not validate HEEn’s particular categories or demonstrate incremental usefulness. The author originated HEE and HEEn and has a commercial interest disclosed below. The cases in HEE Case Studies are examples from the author’s experience (author-reported), not independent tests of this framework. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) governs shared terminology where the documents differ.
+
+**Foundation.** HEE comes from the author’s practice. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) sets out its foundation and approach. In HEEn this shows as examining what prevents capable people from applying their capability in the specific situation.
+
+**How to read the status of HEEn**
+
+- **Labels:** **[H]** marks a practice heuristic, a rule of thumb from practice. **[Illustrative]** marks an invented example, not reported evidence. **[P]** marks a specific construct, relationship, or claim that remains untested. Labels are used sparingly: practical instructions and HEE’s practice origin carry none. A label describes the status of a claim, not its certainty in every setting.
+- **Unknown and Not recorded:** **Unknown** means the available evidence does not support a defensible determination. **Not recorded** means this edition contains no record; it does not mean the event never occurred or that no record exists elsewhere.
+- **What would change HEEn:** see [Open questions](#research-agenda-and-tests). What would narrow or retire HEEn is in [Research notes](https://github.com/titumozammel/human-energy-economics/blob/HEAD/RESEARCH_NOTES.md#heen-research-agenda-and-tests).
+- **What HEEn is not:** not independently validated, not shown to be better than existing methods, and not a clinical diagnostic tool or a substitute for applicable compliance requirements or professional audit standards.
 
 ## Author and disclosure
 
