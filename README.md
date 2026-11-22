@@ -92,7 +92,7 @@ Capable people can still wait for access, approval, or decisions. This guide sho
 
 ## HEE in four questions
 
-**1. What is HEE?** Human Energy Economics (HEE) is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) management approach to organizational capacity and sustainable execution. It is a capacity lens (a way of looking at capacity) informed by economic questions about scarcity, opportunity cost, renewal, and future value. Human Energy Enablement (HEEn) is the framework for investigating organizational conditions that restrict the application of existing capability.
+**1. What is HEE?** Human Energy Economics (HEE) is a [practice-driven](https://github.com/titumozammel/human-energy-economics#4-core-definitions) management approach to execution and the capacity needed for tomorrow. It is a capacity lens (a way of looking at capacity) informed by economic questions about scarcity, opportunity cost, renewal, and future value. Human Energy Enablement (HEEn) is the framework for investigating organizational conditions that restrict the application of existing capability.
 
 **2. What does HEE contribute?** One connected way to ask what limits execution, what evidence supports the answer, and whether others can review the decision. It keeps two judgments separate: was the capacity spent *Justified?*, and will the next cycle’s demand be *Covered?* Whether this adds value beyond existing approaches remains open to independent testing. HEEn adds a way to distinguish missing capability, insufficient available capacity, disconnected capability, and blocked application.
 
