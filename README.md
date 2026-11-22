@@ -27,9 +27,11 @@ You do not need to know the rest of HEE to use this card. Start with one situati
 
 **Ask:**
 
-1. Is the capability missing, or is it there and blocked?
+1. Is capability missing, is its application blocked—or both?
 2. Which of the six pillars shows evidence: Resource, Structural, Cultural, Decision, Support, Environmental?
 3. Why does the blocking condition exist? Test that before changing it.
+
+**First step this week:** Pick one stalled item. Write who is waiting, for what, and for how many days. Then ask whether the skill is missing or its use is blocked.
 
 **You get:** a distinction between missing capability, insufficient capacity, disconnected capability, and blocked application, and one bounded action to test.
 
@@ -37,17 +39,21 @@ You do not need to know the rest of HEE to use this card. Start with one situati
 
 *An invented example, written in the first person to show the thinking. It is not a reported result.*
 
-**The situation.** A skilled planner cannot finalise schedules. The first suggestion in the room is training.
+**The situation.** A skilled planner cannot finalize schedules. The first suggestion in the room is training.
 
-**What I would ask.** Does she know how to plan? Yes. Does she have the time? Yes. What is she waiting for? Supplier lead times, which sit in another team's system.
+**What I would ask.** Does she know how to plan? Does she have the time? What is she waiting for?
+
+**What I would examine.** Planning work, workload, waiting times and the purpose of the access restriction.
+
+**Suppose the evidence shows.** She can plan and has the time, and she is waiting for supplier lead times, which sit in another team's system.
 
 **What that tells me.** The capability exists and is blocked. The nearest pillar is *Resource* (she cannot get what she needs at the point of use), and possibly *Structural*.
 
-**Before opening access.** I would ask why access is limited. Suppose it is a licence limit. Check with the licence and data owners whether an authorized read-only extract could meet her need while preserving the restriction.
+**Before opening access.** I would ask why access is limited. Suppose it is a license limit. Check with the license and data owners whether an authorized read-only extract could meet her need while preserving the restriction.
 
-**One bounded action.** Send her the lead-time extract each week for one month.
+**One bounded action.** With license and data-owner approval, trial a weekly read-only extract for one month. Preserve the required restriction.
 
-**What I would check next cycle.** Did schedules close earlier? Was the safeguard kept? If not, what did I miss?
+**What I would check next cycle.** Did completion improve without more errors, excessive preparation effort or an access breach? If not, what did I miss?
 
 **If several conditions seem to occur together:** record each possibility and establish the next useful evidence before choosing a response (see the diagnosis table under [Diagnose](#diagnose-from-symptom-to-supported-explanation)).
 
@@ -92,7 +98,7 @@ Capable people can still wait for access, approval, or decisions. This guide sho
 
 **3. How do I apply it to my problem?** Start with the problem you can see and the decision you need to make. Context shapes the route: **Diagnose** (look for causes), **Establish** (collect missing evidence) or **Verify** (compare practice with a standard). The routes are not stages; change route as the evidence changes. Use this document when a capable team is not applying its capability and the limiting condition is unclear. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) explains the routes and the six practitioner moves.
 
-**4. How should I use HEE?** Use HEE to ask better questions and review decisions with your own evidence and judgment; it does not replace expert judgment. HEE is an approach to inquiry and judgment; its checklists support that work rather than determine the answer. A performance shortfall alone does not establish a cause. Check in your own case whether the diagnosis leads to a better decision. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions, evidence, and limits.
+**4. How should I use HEE?** Use HEE to ask better questions and review decisions with your own evidence and judgment; it does not replace expert judgment. HEE is an approach to inquiry and judgment, guided by principles; its checklists support that work rather than determine the answer. A performance shortfall alone does not establish a cause. Check in your own case whether the diagnosis leads to a better decision. The [HEE Core README](https://github.com/titumozammel/human-energy-economics) holds the full definitions, evidence, and limits.
 
 ## The question HEEn answers
 
@@ -176,11 +182,11 @@ Within HEE, consequential decisions along the pathway from capability to sustain
 
 **Model boundary.** Decision Process Quality remains the core model’s conversion condition. These four definitions are complementary assessment lenses, not four additional conversion conditions or compulsory sequential stages.
 
-Assess these separately. A good outcome does not prove that the process or choice was sound; a poor outcome does not automatically establish that either was unsound. Context shapes every decision: its Time, Object, and Location, together with the legitimate demand, available evidence, constraints, alternatives, uncertainty, and consequences.
+Assess these separately. A favorable outcome does not prove that the process or choice was sound; an unfavorable outcome does not automatically establish that either was unsound. Context shapes every decision: its Time, Object, and Location, together with the legitimate demand, available evidence, constraints, alternatives, uncertainty, and consequences.
 
 **The Two Checks.** Apply the Two Checks proportionately to decisions affecting capacity:
 
-- **Justified?** Was the capacity spent warranted?
+- **Justified?** Was the capacity spent warranted, considering purpose, necessity, proportionality and alternatives?
 - **Covered?** Can credible expected usable capacity meet legitimate next-cycle demand?
 
 A justified expenditure can still leave future capacity Not covered. Where evidence is insufficient, record Unknown and specify the next evidence request or precautionary action.
@@ -270,7 +276,7 @@ The six pillars are proposed areas for organizing inquiry **[P]**. Indicators an
 
 | Pillar | Governing question | Evidence to inspect | Alternative or overlap | Possible bounded action |
 | --- | --- | --- | --- | --- |
-| **Resource** | Can the work obtain what it needs at the point of use? | Tool access, licences, material availability, data freshness, actual resource queues | Genuine capacity shortage; missing technical skill | Provide named access or resource, then test its use |
+| **Resource** | Can the work obtain what it needs at the point of use? | Tool access, licenses, material availability, data freshness, actual resource queues | Genuine capacity shortage; missing technical skill | Provide named access or resource, then test its use |
 | **Structural** | Do roles, responsibilities, and interfaces permit action? | Responsibility records, handoff traces, duplicate approvals, owner disputes | Connection failure; necessary separation of duties | Clarify an owner or redesign one interface |
 | **Cultural** | Do operating norms permit constructive action and challenge? | Confidential accounts triangulated with actual escalation and response patterns | Incentives, power, uncertainty, or an unsuitable target | Change a specific response or escalation practice and check effects |
 | **Decision** | Can the needed decision be made with authority and information in time? | Delegations, approval timestamps, queue length, backup arrangements | Weak decision process; incomplete evidence; exceptional risk | Bounded delegation or a usable escalation path |
@@ -511,7 +517,7 @@ Think of one delayed task. Write down: the expected application; evidence that t
 
 **Author position and disclosure.** The author originated HEE and HEEn, serves as Chief Innovation Officer at AKG (Abul Khair Group), Bangladesh, where part of the practice record originated, and has a commercial and professional interest in how HEE and HEEn are received. Practice observations from AKG are author-reported, not independent assessment.
 
-**A note from the author.** HEE comes from my knowledge, experience, wisdom, and judgment, developed through years of practice across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I always began with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my knowledge, experience, wisdom, and judgment as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com). Website: [ovinabo.com](https://ovinabo.com/).
+**A note from the author.** HEE comes from my knowledge, experience, wisdom, and judgment, developed through years of practice across Russia, Nigeria, and Bangladesh. In my practice, context guided how I solved problems, handled situations, planned, set strategy and priorities, made decisions, and filtered the concerns that materially matter. HEE comes from that journey. I noticed what was happening, solved and handled it, and kept the results consistent. I began each piece of work with the context and the decision point, and asked which approach fits. I focus on people’s capability, capacity, and enablement. I did not call this HEE when I did the work. In 2026 I organized and scoped my knowledge, experience, wisdom, and judgment as HEE. Many of us have learned a lot of management thought and still find it hard to succeed consistently in real work. HEE is my practice-driven attempt to help. In my own practice I have seen results from it (author-reported; not independently verified). I report the results of my own practice; they may not be repeated in your setting. Please test HEE for yourself, in proportion to the stakes and with the safeguards you need. You decide. Business–IT alignment (Business → IT → Business) and convergence (IT → Business → IT) are two examples of where I applied this practice. Whether to apply HEE in your situation is entirely your choice. If you would like to discuss your case, or if you applied HEE and did not see the result you expected, I would be glad to hear from you. You are welcome to write to [mozammel@ovinabo.com](mailto:mozammel@ovinabo.com). Website: [ovinabo.com](https://ovinabo.com/).
 
 ## License
 
